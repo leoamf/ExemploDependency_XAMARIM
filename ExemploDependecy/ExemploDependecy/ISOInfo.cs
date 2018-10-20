@@ -1,0 +1,1 @@
+﻿using System; namespace ExemploDependecy {     public interface ISOInfo     {             string Dados { get;  }      } }  

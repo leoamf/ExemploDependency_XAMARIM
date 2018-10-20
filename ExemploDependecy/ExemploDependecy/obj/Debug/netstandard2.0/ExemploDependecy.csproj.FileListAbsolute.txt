@@ -1,0 +1,11 @@
+/Users/aluno/Desktop/ExemploDependency_XAMARIM/ExemploDependecy/ExemploDependecy/bin/Debug/netstandard2.0/ExemploDependecy.deps.json
+/Users/aluno/Desktop/ExemploDependency_XAMARIM/ExemploDependecy/ExemploDependecy/bin/Debug/netstandard2.0/ExemploDependecy.dll
+/Users/aluno/Desktop/ExemploDependency_XAMARIM/ExemploDependecy/ExemploDependecy/bin/Debug/netstandard2.0/ExemploDependecy.pdb
+/Users/aluno/Desktop/ExemploDependency_XAMARIM/ExemploDependecy/ExemploDependecy/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/aluno/Desktop/ExemploDependency_XAMARIM/ExemploDependecy/ExemploDependecy/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/aluno/Desktop/ExemploDependency_XAMARIM/ExemploDependecy/ExemploDependecy/obj/Debug/netstandard2.0/ExemploDependecy.csproj.CoreCompileInputs.cache
+/Users/aluno/Desktop/ExemploDependency_XAMARIM/ExemploDependecy/ExemploDependecy/obj/Debug/netstandard2.0/ExemploDependecy.AssemblyInfoInputs.cache
+/Users/aluno/Desktop/ExemploDependency_XAMARIM/ExemploDependecy/ExemploDependecy/obj/Debug/netstandard2.0/ExemploDependecy.AssemblyInfo.cs
+/Users/aluno/Desktop/ExemploDependency_XAMARIM/ExemploDependecy/ExemploDependecy/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/aluno/Desktop/ExemploDependency_XAMARIM/ExemploDependecy/ExemploDependecy/obj/Debug/netstandard2.0/ExemploDependecy.dll
+/Users/aluno/Desktop/ExemploDependency_XAMARIM/ExemploDependecy/ExemploDependecy/obj/Debug/netstandard2.0/ExemploDependecy.pdb

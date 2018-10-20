@@ -1,0 +1,1 @@
+﻿using System; namespace ExemploDependecy {     public interface IMedia     {         void Play();      } }  

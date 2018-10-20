@@ -1,0 +1,2 @@
+﻿using System; using Xamarin.Forms;  [assembly: Dependency(typeof(ExemploDependecy.Droid.SOInfo))] namespace ExemploDependecy.Droid {     public class SOInfo : ISOInfo     {  
+        string ISOInfo.Dados =>    Android.OS.Build.Manufacturer;     } }  
